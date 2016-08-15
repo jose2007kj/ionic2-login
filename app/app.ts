@@ -18,10 +18,10 @@ import {
         FIREBASE_PROVIDERS,
         // Initialize Firebase app  
         defaultFirebase({
-            apiKey: "AIzaSyC18W03x60bmJxnk2WwHt07pAhc4b4GOPI",
-    authDomain: "pallikkutam-7d131.firebaseapp.com",
-    databaseURL: "https://pallikkutam-7d131.firebaseio.com",
-    storageBucket: "pallikkutam-7d131.appspot.com",
+            apiKey: "Your key here",
+    authDomain: "Your key here",
+    databaseURL: "Your key here",
+    storageBucket: "Your key here",
   }),
         firebaseAuthConfig({
             provider: AuthProviders.Password,
